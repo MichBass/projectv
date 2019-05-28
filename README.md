@@ -2,7 +2,7 @@
 
 ISTRUZIONI: 
 
-•	Eseguire il codice di Data Reader e Data Sender su Visual Studio 2019. 
+•	Eseguire prima il codice del Data Reader e subito dopo, in un altra console, quello Data Sender su Visual Studio 2019. 
 
 •	Avviare l’Influx DB attraverso gli eseguibili della cartella “influx”. 
 
